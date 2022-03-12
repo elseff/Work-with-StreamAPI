@@ -1,5 +1,5 @@
 # Work-with-StreamAPI
-work with list of employees by Stream API
+work with list of employees using Stream API
 
 1) search employees under 35
 2) search employees above 26
